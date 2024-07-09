@@ -53,8 +53,4 @@ Ce fichier est un raccourci de bureau pour activer/désactiver un VPN. Il est co
 Assurez-vous de protéger vos clés SSH et autres informations sensibles. Ne partagez pas vos clés privées ou d'autres données personnelles dans ce dépôt.
 
 ## Contributeurs
-Ce dépôt est maintenu par Cyril. Les contributions sont les bienvenues. Veuillez soumettre un pull request pour proposer des améliorations ou des ajouts.
-
-```
-
-Ce fichier `README.md` décrit brièvement chaque fichier et leur utilisation sans révéler d'informations personnelles. Si vous avez d'autres fichiers à inclure ou des modifications spécifiques à apporter, n'hésitez pas à me le faire savoir.
+Ce dépôt est maintenu par Cyril Wolfangel. Les contributions sont les bienvenues. Veuillez soumettre un pull request pour proposer des améliorations ou des ajouts.
