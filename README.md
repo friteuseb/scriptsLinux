@@ -1,4 +1,3 @@
-```markdown
 # Scripts Linux
 
 Ce dépôt contient divers scripts et configurations utiles pour la gestion des tâches et la surveillance du système sous Linux.
