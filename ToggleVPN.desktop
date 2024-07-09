@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=VPN Connect
+Comment=Connect to VPN
+Exec=/home/cyril/ddev/toggle_vpn.sh
+Icon=network-vpn
+Terminal=true
+Type=Application
+Categories=Network;
